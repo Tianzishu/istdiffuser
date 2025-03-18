@@ -19,8 +19,8 @@ ISTDiffuser is a conditional denoising diffusion framework with contrastive lear
 *Note: Left: Original infrared images; Right: Enhanced small target generation results by ISTDiffuser*
 
 ### Performance on NUDT-SIRST Dataset
-![NUDT-SIRST Comparison](docs/images/nudt_comparison_collage.webp)
+![NUDT-SIRST Comparison](nudt_comparison_collage.webp)
 
 ### Performance on IRSTD-1K Dataset
-![IRSTD-1K Comparison](docs/images/1k_comparison_collage.webp)
+![IRSTD-1K Comparison](1k_comparison_collage.webp)
 
