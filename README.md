@@ -10,7 +10,7 @@
 ISTDiffuser is a conditional denoising diffusion framework with contrastive learning for infrared small target image generation. This work pioneers the application of diffusion models in infrared small target detection, achieving high-fidelity image generation through innovative conditional denoising mechanisms and contrastive learning strategies.
 
 ### Data & Code Availability
-**In accordance with the academic community's common practice, the core codebase will be released upon formal acceptance of the paper.** We fully recognize the importance of open-source code for research reproducibility. For technical discussions or collaboration opportunities, please feel free to contact us via [Issues](https://github.com/Tianzishu/istdiffuser/issues) or email.
+**In accordance with the academic community's common practice, the core codebase, pre-trained models, and IST-SIRST dataset will be made publicly available upon formal acceptance of the paper.** We fully recognize the importance of open-source code for research reproducibility. For technical discussions or collaboration opportunities, please feel free to contact us via [Issues](https://github.com/Tianzishu/istdiffuser/issues) or email.
 
 ---
 
