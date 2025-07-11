@@ -20,7 +20,7 @@ ISTDiffuser is a conditional denoising diffusion framework with contrastive lear
 git clone https://github.com/Tianzishu/istdiffuser.git
 cd istdiffuser
 pip install -r requirements.txt
-
+```
 ## Prerequisite
 * Tested on Ubuntu 20.04, with Python 3.8, PyTorch 1.8.1, Torchvision 0.9.1, CUDA 11.7, and 1x NVIDIA A800. 
 
