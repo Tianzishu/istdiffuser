@@ -21,8 +21,8 @@ git clone https://github.com/Tianzishu/istdiffuser.git
 cd istdiffuser
 pip install -r requirements.txt
 ```
-## Prerequisite
-* Tested on Ubuntu 20.04, with Python 3.8, PyTorch 1.8.1, Torchvision 0.9.1, CUDA 11.7, and 1x NVIDIA A800. 
+## 📊 Prerequisite
+* Train on Ubuntu 20.04, with Python 3.8, PyTorch 1.8.1, Torchvision 0.9.1, CUDA 11.7, and 1x NVIDIA A800. 
 
 * **NUDT-SIRST** &nbsp; [[download]](https://github.com/YeRen123455/Infrared-Small-Target-Detection) &nbsp; [[paper]](https://ieeexplore.ieee.org/abstract/document/9864119)
 
@@ -32,7 +32,11 @@ pip install -r requirements.txt
 ## 📦 Pretrained Models
 You can download our pre-trained weights via [BaiduYun Drive](https://pan.baidu.com/s/1krWT2I4OPlC-_dlV8Z16PQ?pwd=unny).(Includes checkpoints for NUDT-SIRST) 
 
-## Results Demonstration
+## 📬 Contact
+We welcome discussions and collaborations.
+Please open an issue or contact us via email.
+
+## 📁 Results Demonstration
 
 *Note: Left: Original infrared images; Right: Enhanced small target generation results by ISTDiffuser*
 
